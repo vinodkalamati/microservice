@@ -1,0 +1,12 @@
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/service/MovieService.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/service/MovieServiceImpl.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/exceptions/MovieNotFoundException.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/config/SwaggerConfig.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/controller/ExceptionControllerAdvice.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/config/WebConfiguration.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/controller/MovieController.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/exceptions/MovieAlreadyExistsException.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/repository/MovieRepository.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/domain/Movie.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/MovieserviceApplication.java
+/home/cgi/JavaAssignments/MicroServices/MovieService/src/main/java/com/stackroute/service/MovieDummyServiceImpl.java
